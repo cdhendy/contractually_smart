@@ -3,13 +3,13 @@ Module 20 - Challenge 20 : Contractually Smart
 
 ## Purpose
 
-Fintech Finder is an application is demonstrate the functionality of solidity contracts
+Contractually Smart is a project that demonstrates Solidity contracts.
 
 ---
 
 ## Technologies
 
-Solidity, Ethereum IDE, and the internet were used in the creation of this project. 
+Solidity, Ethereum/Remix IDE, and the internet were used in the creation of this project. 
 
 Remix IDE- Online IDE that for running solidity contracts 
 
@@ -17,21 +17,13 @@ Remix IDE- Online IDE that for running solidity contracts
 
 ## Installation Guide
 
-In your terminal or command shell install the following packages: 
+Go to remix.ethereum.org and upload joint_savings.sol
 
 ---
-## Proof of Concept
+## Execution
 ---
 
-![wallet](https://github.com/cdhendy/cypto_wallet/blob/images/1.png?raw=true)
-
-## Contributors
-
-Created by: Christopher Henderson
-
-cdhendy@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/chris-henderson123/)
+Proof of concept is found in the execution_results found on this repo.
 
 ---
 
